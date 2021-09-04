@@ -1,0 +1,25 @@
+{
+  "name": "balancersingleswapexample",
+  "version": "1.0.0",
+  "description": "Example script executing a singleswap transaction using balancer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikebmikeb/Balancer-Singleswap-Nodejs-Example.git"
+  },
+  "author": "Mike B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikebmikeb/Balancer-Singleswap-Nodejs-Example/issues"
+  },
+  "homepage": "https://github.com/mikebmikeb/Balancer-Singleswap-Nodejs-Example#readme",
+  "dependencies": {
+    "bignumber": "^1.1.0",
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.5.2",
+    "web3-eth-abi": "^1.5.2"
+  }
+}
